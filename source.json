@@ -1,18 +1,18 @@
 {
-  "name": "ИМЯ_ИСТОЧНИКА",
+  "name": "My Source",
   "subtitle": "Мой источник приложений",
   "description": "Источник с приложением Muriel.",
-  "iconURL": "https://raw.githubusercontent.com/ВАШ_НИК/ИМЯ_РЕПО/main/icon.png",
+  "iconURL": "https://raw.githubusercontent.com/andreylp991-netizen/altstore/main/icon.png",
   "tintColor": "#F54F32",
   "nsfw": false,
   "apps": [
     {
       "name": "Muriel",
       "bundleIdentifier": "io.github.cloverscripts.muriel",
-      "developerName": "ИМЯ_РАЗРАБОТЧИКА",
+      "developerName": "cloverscripts",
       "subtitle": "Muriel",
       "localizedDescription": "Приложение Muriel.",
-      "iconURL": "https://raw.githubusercontent.com/ВАШ_НИК/ИМЯ_РЕПО/main/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/andreylp991-netizen/altstore/main/icon.png",
       "tintColor": "#F54F32",
       "category": "entertainment",
       "versions": [
@@ -21,7 +21,7 @@
           "buildVersion": "85",
           "date": "2026-10-29",
           "localizedDescription": "Первый релиз.",
-          "downloadURL": "https://github.com/ВАШ_НИК/ИМЯ_РЕПО/releases/download/v1.3.85/Muriel_4.ipa",
+          "downloadURL": "https://github.com/andreylp991-netizen/altstore/releases/download/v1.3.85/Muriel_4.ipa",
           "size": 3824139,
           "minOSVersion": "16.2"
         }
