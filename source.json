@@ -1,0 +1,36 @@
+{
+  "name": "ИМЯ_ИСТОЧНИКА",
+  "subtitle": "Мой источник приложений",
+  "description": "Источник с приложением Muriel.",
+  "iconURL": "https://raw.githubusercontent.com/ВАШ_НИК/ИМЯ_РЕПО/main/icon.png",
+  "tintColor": "#F54F32",
+  "nsfw": false,
+  "apps": [
+    {
+      "name": "Muriel",
+      "bundleIdentifier": "io.github.cloverscripts.muriel",
+      "developerName": "ИМЯ_РАЗРАБОТЧИКА",
+      "subtitle": "Muriel",
+      "localizedDescription": "Приложение Muriel.",
+      "iconURL": "https://raw.githubusercontent.com/ВАШ_НИК/ИМЯ_РЕПО/main/icon.png",
+      "tintColor": "#F54F32",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "1.3.85",
+          "buildVersion": "85",
+          "date": "2026-10-29",
+          "localizedDescription": "Первый релиз.",
+          "downloadURL": "https://github.com/ВАШ_НИК/ИМЯ_РЕПО/releases/download/v1.3.85/Muriel_4.ipa",
+          "size": 3824139,
+          "minOSVersion": "16.2"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
